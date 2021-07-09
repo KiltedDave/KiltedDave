@@ -7,7 +7,7 @@ Hi my name is Dave.  I am...
 - wearer of kilts (don't knock until you try it)
 - and a software developer
 
-As you can see my interests vary far and wide but they all keep me engaged in life anmy d mind sharp.
+As you can see my interests vary far and wide but they all keep me engaged in life and my mind sharp.
 
 Now you found me here in GitHub so you are most interested in my software development skills.  Here goes.
 I have been coding for over 8 years now.  My experience mainly focuses on backend C# .NET, but don't let
