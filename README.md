@@ -14,7 +14,7 @@ I have been coding for over 8 years now.  My experience mainly focuses on backen
 that fool you.  I have developed apps in VB.NET, Perl, SQL, Java, and Bash.  I have built web apps, thick
 client app, and good old console apps.  I even have database experience including both MS SQL Server and Oracle Server.
 
-Let's just say that I am a man of many things but never a master of any.
+Let's just say that I am a man of many things but never a master of any, but that is okay.  I love to learn.
 
 My GitHub account is a collection of repos tracking some of my training modules as I learn all sorts of 
 software processes.  You will find Angular apps, Blazor apps, and even just plain MVC web apps.  Some stuff is 
